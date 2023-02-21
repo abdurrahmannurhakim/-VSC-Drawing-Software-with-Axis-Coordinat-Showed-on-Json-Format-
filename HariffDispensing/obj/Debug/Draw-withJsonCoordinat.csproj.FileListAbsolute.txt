@@ -1,0 +1,14 @@
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\bin\Debug\HariffDispensing.exe.config
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\bin\Debug\HariffDispensing.exe
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\bin\Debug\HariffDispensing.pdb
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\bin\Debug\aa-ER\HariffDispensing.resources.dll
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\Draw-withJsonCoordinat.csproj.AssemblyReference.cache
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\Draw-withJsonCoordinat.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.Form1.resources
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.Properties.Resources.resources
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.Form1.aa-ER.resources
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\Draw-withJsonCoordinat.csproj.GenerateResource.cache
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\Draw-withJsonCoordinat.csproj.CoreCompileInputs.cache
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\aa-ER\HariffDispensing.resources.dll
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.exe
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.pdb

@@ -1,0 +1,28 @@
+D:\SOFTWARE DISPENSING\HariffDispensing\HariffDispensing\bin\Debug\HariffDispensing.exe.config
+D:\SOFTWARE DISPENSING\HariffDispensing\HariffDispensing\bin\Debug\HariffDispensing.exe
+D:\SOFTWARE DISPENSING\HariffDispensing\HariffDispensing\bin\Debug\HariffDispensing.pdb
+D:\SOFTWARE DISPENSING\HariffDispensing\HariffDispensing\bin\Debug\aa-ER\HariffDispensing.resources.dll
+D:\SOFTWARE DISPENSING\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.csproj.AssemblyReference.cache
+D:\SOFTWARE DISPENSING\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.csproj.SuggestedBindingRedirects.cache
+D:\SOFTWARE DISPENSING\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.Form1.resources
+D:\SOFTWARE DISPENSING\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.Properties.Resources.resources
+D:\SOFTWARE DISPENSING\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.Form1.aa-ER.resources
+D:\SOFTWARE DISPENSING\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.csproj.GenerateResource.cache
+D:\SOFTWARE DISPENSING\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.csproj.CoreCompileInputs.cache
+D:\SOFTWARE DISPENSING\HariffDispensing\HariffDispensing\obj\Debug\aa-ER\HariffDispensing.resources.dll
+D:\SOFTWARE DISPENSING\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.exe
+D:\SOFTWARE DISPENSING\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.pdb
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\bin\Debug\HariffDispensing.exe.config
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\bin\Debug\HariffDispensing.exe
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\bin\Debug\HariffDispensing.pdb
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\bin\Debug\aa-ER\HariffDispensing.resources.dll
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.csproj.AssemblyReference.cache
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.Form1.resources
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.Properties.Resources.resources
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.Form1.aa-ER.resources
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.csproj.GenerateResource.cache
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.csproj.CoreCompileInputs.cache
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\aa-ER\HariffDispensing.resources.dll
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.exe
+C:\Users\nurhakim\Downloads\HariffDispensing-20230221T104804Z-001\HariffDispensing\HariffDispensing\obj\Debug\HariffDispensing.pdb
